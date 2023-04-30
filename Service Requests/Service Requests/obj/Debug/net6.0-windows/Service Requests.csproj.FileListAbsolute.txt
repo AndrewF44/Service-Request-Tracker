@@ -1,0 +1,18 @@
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\bin\Debug\net6.0-windows\Service Requests.exe
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\bin\Debug\net6.0-windows\Service Requests.deps.json
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\bin\Debug\net6.0-windows\Service Requests.runtimeconfig.json
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\bin\Debug\net6.0-windows\Service Requests.dll
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\bin\Debug\net6.0-windows\Service Requests.pdb
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service Requests.csproj.AssemblyReference.cache
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service_Requests.Form1.resources
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service Requests.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service Requests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service Requests.AssemblyInfoInputs.cache
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service Requests.AssemblyInfo.cs
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service Requests.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service Requests.dll
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\refint\Service Requests.dll
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service Requests.pdb
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service Requests.genruntimeconfig.cache
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\ref\Service Requests.dll
+C:\Users\Andrew\source\repos\Service Requests\Service Requests\obj\Debug\net6.0-windows\Service_Requests.Properties.Resources.resources

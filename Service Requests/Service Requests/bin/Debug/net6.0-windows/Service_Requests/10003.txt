@@ -1,0 +1,7 @@
+Request number: 10003
+Date requested: 4/26/2023
+Technician assigned: Ben
+Request description: Slipped on banana and accidently punched monitor, screen now has crack for some reason
+Completed!
+Notes:
+Installed new monitor, gave customer a pep talk about slipping around expensive technology.

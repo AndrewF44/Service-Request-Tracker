@@ -1,0 +1,4 @@
+Request number: 10004
+Date requested: 4/29/2023
+Technician assigned: Eddy
+Request description: My computer has no IP address, and i can't connect to the internet

@@ -1,0 +1,7 @@
+Request number: 10001
+Date requested: 4/29/2023
+Technician assigned: Bryan
+Request description: I tripped on ethernet cable and dont have any internet access
+Completed!
+Notes:
+Bought a new cable and yelled at guy not to trip over this new one
